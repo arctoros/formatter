@@ -5,4 +5,4 @@ Anyone willing can adjust this code to their liking to conform to their conventi
 Sample:
 <img width="1394" alt="Screenshot 2024-12-29 at 12 35 57" src="https://github.com/user-attachments/assets/3a8ac395-da12-4819-bb27-1029ca55bcc2" />
 
-The sample code I used is the (Apple II Monitor)[https://github.com/The8BitEnthusiast/apple-1-breadboard/tree/main/beneater/msbasic] by (The8BitEnthusiast)[https://github.com/The8BitEnthusiast]
+The sample code I used is the [Apple II Monitor](https://github.com/The8BitEnthusiast/apple-1-breadboard/tree/main/beneater/msbasic) by [The8BitEnthusiast](https://github.com/The8BitEnthusiast)
